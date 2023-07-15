@@ -1,4 +1,4 @@
-# 🍴FruitFork: My handwritten font
+# 🍴FruitFork: My Handwritten Font
 
 ![uzSCDZK](https://i.imgur.com/uzSCDZK.png)
 
